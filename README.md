@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="70%" alt="Blockchain Animation"/>
-</p>
+
 
 
 
