@@ -42,13 +42,4 @@
 
 ---
 
-# 🖼 dawit@dawit-os:~$ ./logo
 
-![Dawit OS Logo](./assets/logo.png)
-
----
-
-# 👋 dawit@dawit-os:~$ logout
-
-> Thank you for visiting my GitHub terminal.  
-> Remember: `sudo code the future` 💻
