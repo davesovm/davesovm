@@ -1,6 +1,4 @@
-# Create a GitHub-style README.md file based on the Dawit OS portfolio template
 
-readme_content = """
 # 👨🏾‍💻 dawit@dawit-os:~$ whoami
 
 **Name:** Dawit Berhanu  
@@ -19,3 +17,38 @@ readme_content = """
 🧠 AI & Agents:  LangChain | OpenAI | Transformers | Agent Architecture
 🔗 Web3:         EVM | Smart Contracts | Wallet APIs | ZK Tech
 ☁️ Tools:        GitHub | VS Code | Linux | Azure | Vercel | Docker
+```
+
+---
+
+
+# ⚙️ dawit@dawit-os:~$ ./system --about
+
+```bash
+🎯 Mission: Building AI-powered and decentralized tools that solve real-world problems.
+🦁 Identity: Blending Ethiopian roots + open-source passion.
+🖥️ Philosophy: Code like a hacker. Think like a builder.
+```
+
+---
+
+# 📡 dawit@dawit-os:~$ ./connect --now
+
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/yourhandle)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)  
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/yourhandle)
+
+📬 `dawit@dawitos.dev`
+
+---
+
+# 🖼 dawit@dawit-os:~$ ./logo
+
+![Dawit OS Logo](./assets/logo.png)
+
+---
+
+# 👋 dawit@dawit-os:~$ logout
+
+> Thank you for visiting my GitHub terminal.  
+> Remember: `sudo code the future` 💻
