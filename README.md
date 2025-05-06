@@ -1,6 +1,6 @@
 <!-- Banner (Optional: replace with your custom banner image) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2d2d,100:6e40c9&height=200&section=header&text=Dawit%20Berhanu&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2d2d,100:6e40c9&height=300&section=header&text=Dawit%20Berhanu&fontSize=40&fontColor=ffffff" width="100%"  />
 </p>
 <p align="center">
   I build intelligent agents that think, learn, and collaborate.
@@ -64,9 +64,6 @@
 - 🌌 I believe in *"agents that talk to each other"*  
 - 🔍 Always reading new papers on AI alignment, LLM theory & emergent behavior  
 - 🎮 When I'm not coding, I'm gaming or building keyboard firmware  
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:2d2d2d&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:2d2d2d&height=100&section=footer" width="100%" />
 </p>
