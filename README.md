@@ -2,9 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2d2d,100:6e40c9&height=200&section=header&text=Dawit%20Berhanu&fontSize=40&fontColor=ffffff" />
 </p>
-
-<!-- Intro -->
-<h2 align="center">👋 Hi there, I'm Dawit — an AI Agent Developer</h2>
 <p align="center">
   I build intelligent agents that think, learn, and collaborate.
   <br />
