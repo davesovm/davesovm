@@ -20,10 +20,10 @@
   <a href="https://github.com/davesovm">
     <img src="https://img.shields.io/badge/GitHub-davesovm-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:dawitsovm@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://linkedin.com/in/dawit-berhanu">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
