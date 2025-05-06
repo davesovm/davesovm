@@ -26,7 +26,7 @@
 ## 🧠 What I Do
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,openai,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,vscode" />
 </p>
 
 - 🤖 Building **LLM agents** using OpenAI, LangChain, and vector databases  
@@ -41,7 +41,7 @@
 <table>
   <tr>
     <td align="center"><b>🧠 Agent Framework</b><br/><img src="https://img.icons8.com/dusk/64/artificial-intelligence.png"/><br/><sub>Modular, OpenAI-powered autonomous agent system</sub></td>
-    <td align="center"><b>📚 RAG QA Bot</b><br/><img src="https://img.icons8.com/dusk/64/chatbot.png"/><br/><sub>Context-aware chatbot with vector memory</sub></td>
+    <td align="center"><b>🤖 RAG QA Bot</b><br/><br/><sub>Context-aware chatbot with vector memory</sub></td>
     <td align="center"><b>🌐 Agent Swarm</b><br/><img src="https://img.icons8.com/dusk/64/bot.png"/><br/><sub>Simulated multi-agent collaboration testbed</sub></td>
   </tr>
 </table>
