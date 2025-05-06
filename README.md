@@ -1,12 +1,18 @@
-<!-- Banner (Optional: replace with your custom banner image) -->
+
+
+<!-- 🚀 Futuristic Capsule Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2d2d,100:6e40c9&height=200&section=header&text=Dawit%20Berhanu&fontSize=40&fontColor=ffffff" width="100%"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6e40c9&height=200&section=header&text=%20Dawit%20Berhanu%20&fontSize=45&fontColor=00ffee" width="100%" />
 </p>
 
+<!-- 🧠 AI Agent Builder Tagline -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FEEF&center=true&vCenter=true&width=600&lines=Autonomous+AI+Agent+Developer;Crafting+Intelligent+Systems+%F0%9F%A4%96;LLM+Architect+%7C+RAG+Engineer+%7C+Toolformer+Tinkerer" />
+</h3>
+
+<!-- 🌌 Futuristic Divider -->
 <p align="center">
-  I build intelligent agents that think, learn, and collaborate.
-  <br />
-  <em>Researcher | Builder | Curious Mind</em>
+  <img src="https://github.com/Elanza-48/Elanza-48/raw/main/images/matrix.gif" width="80%" />
 </p>
 
 <!-- Socials -->
