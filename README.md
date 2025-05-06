@@ -33,8 +33,9 @@
 ## 🧠 What I Do
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,postgres,redis,rust,react,nextjs,tailwind,js,ts" />
 </p>
+
 
 - 🤖 Building **LLM agents** using OpenAI, LangChain, and vector databases  
 - 🔁 Designing multi-agent systems that **collaborate, reason, and act autonomously**  
