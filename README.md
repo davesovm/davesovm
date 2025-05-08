@@ -37,10 +37,27 @@
 </p>
 
 
-- 🤖 Building **LLM agents** using OpenAI, LangChain, and vector databases  
-- 🔁 Designing multi-agent systems that **collaborate, reason, and act autonomously**  
-- 🧪 Researching ways to make AI more useful, safe, and aligned with humans  
-- 📦 Deploying smart tools using **FastAPI**, **Docker**, and cloud services
+[![LLM Agents](https://img.shields.io/badge/LLM_Agents-OpenAI,_LangChain,_Vectors-00FFC3?style=flat-square&logo=openai&logoColor=white)](#)
+🤖 **Building LLM Agents**  
+Using **OpenAI**, **LangChain**, and **vector databases** to develop intelligent, context-aware systems.
+
+---
+
+[![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent-Collaborative_Reasoning-6C63FF?style=flat-square&logo=slack&logoColor=white)](#)
+🔁 **Designing Multi-Agent Systems**  
+Creating autonomous agents that **collaborate**, **reason**, and **act** across tasks and domains.
+
+---
+
+[![AI Alignment](https://img.shields.io/badge/AI_Research-Alignment,_Safety,_Usefulness-blueviolet?style=flat-square&logo=ai&logoColor=white)](#)
+🧪 **AI Research & Alignment**  
+Exploring ways to make AI more **safe**, **aligned**, and **human-centric**.
+
+---
+
+[![Deployment](https://img.shields.io/badge/Deployment-FastAPI,_Docker,_Cloud-1E90FF?style=flat-square&logo=docker&logoColor=white)](#)
+📦 **Deploying Smart Tools**  
+Shipping AI products using **FastAPI**, **Docker**, and modern **cloud platforms**.
 
 ---
 
