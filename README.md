@@ -68,12 +68,26 @@ Exploring ways to make AI more **safe**, **aligned**, and **human-centric**.
 
 ---
 
+
 ## 💡 Fun Facts
 
-- 🧠 Obsessive about clean, modular code  
-- 🌌 I believe in *"agents that talk to each other"*  
-- 🔍 Always reading new papers on AI alignment, LLM theory & emergent behavior  
-- 🎮 When I'm not coding, I'm gaming or building keyboard firmware  
+- 🧠 **Obsessive about clean, modular code**  
+  I believe in writing code that’s not only efficient but also easy to understand and scale.
+  
+- 🌌 **I believe in *"agents that talk to each other"***  
+  I love building systems where different AI agents collaborate seamlessly to solve complex problems.
+
+- 🔍 **Always reading new papers on AI alignment, LLM theory & emergent behavior**  
+  Keeping up with the latest in AI research to stay at the forefront of technology.
+
+- 🎮 **When I'm not coding, I'm gaming or building keyboard firmware**  
+  A gamer at heart, and I also enjoy the challenge of creating custom firmware for mechanical keyboards.
+
+---
+
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:2d2d2d&height=100&section=footer" width="100%" />
 </p>
