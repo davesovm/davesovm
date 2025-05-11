@@ -2,22 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,50:2a2a72,100:000000&height=200&section=header&text=%20%20Dawit%20Berhanu%20✨&fontSize=45&fontColor=99ccff" width="100%" />
 </p>
-<!-- 🧠 AI Agent Builder Tagline -->
-<h3 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=99ccff&center=true&vCenter=true&width=500&lines=Autonomous+AI+Agent+Developer;Crafting+Intelligent+Systems+%F0%9F%A4%96;LLM+Architect+%7C+RAG+Engineer+%7C+Toolformer+Tinkerer" 
-    style="height: 60px;" 
-  />
-</h3>
-<!-- 🌌 Futuristic Divider -->
-<p align="center">
-  <img src="https://github.com/Elanza-48/Elanza-48/raw/main/images/matrix.gif" width="20%" />
-</p>
-
-<!-- Socials -->
-
-
----
 
 ## 🧠 What I Do
 
