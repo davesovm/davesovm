@@ -1,5 +1,3 @@
-
-
 <!-- 🚀 Futuristic Capsule Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,50:2a2a72,100:000000&height=200&section=header&text=%20%20Dawit%20Berhanu%20✨&fontSize=45&fontColor=99ccff" width="100%" />
@@ -17,17 +15,7 @@
 </p>
 
 <!-- Socials -->
-<p align="center">
-  <a href="https://github.com/davesovm">
-    <img src="https://img.shields.io/badge/GitHub-davesovm-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:dawitsovm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/dawit-berhanu">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+
 
 ---
 
@@ -69,21 +57,6 @@ Exploring ways to make AI more **safe**, **aligned**, and **human-centric**.
 ---
 
 
-## 💡 Fun Facts
-
-- 🧠 **Obsessive about clean, modular code**  
-  I believe in writing code that’s not only efficient but also easy to understand and scale.
-  
-- 🌌 **I believe in *"agents that talk to each other"***  
-  I love building systems where different AI agents collaborate seamlessly to solve complex problems.
-
-- 🔍 **Always reading new papers on AI alignment, LLM theory & emergent behavior**  
-  Keeping up with the latest in AI research to stay at the forefront of technology.
-
-- 🎮 **When I'm not coding, I'm gaming or building keyboard firmware**  
-  A gamer at heart, and I also enjoy the challenge of creating custom firmware for mechanical keyboards.
-
----
 
 
 
