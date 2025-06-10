@@ -6,8 +6,9 @@
 ## 🧠 What I Do
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,postgres,redis,rust,react,nextjs,tailwind,js,ts" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,postgres,redis,rust,react,nextjs,tailwind,js,ts,supabase" />
 </p>
+
 
 
 # 🤖 AI Systems & Agents
