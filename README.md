@@ -8,13 +8,13 @@
 
 <p align="center">
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,rust" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,rust" /><br/>
   <!-- Database -->
-  <img src="https://skillicons.dev/icons?i=postgres,redis,supabase" /><br/>
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,redis" /><br/>
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,vite" /><br/>
+  <img src="https://skillicons.dev/icons?i=vite,ts,js,react,framer,nextjs,tailwind," /><br/>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=linux,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,github,git,linux,vscode,figma,postman" />
 </p>
 
 
