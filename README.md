@@ -3,14 +3,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,50:2a2a72,100:000000&height=200&section=header&text=%20%20Dawit%20Berhanu%20✨&fontSize=45&fontColor=99ccff" width="100%" />
 </p>
 
-## 🧠 What I Do
 
 ## 🧠 What I Do
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,postgres,redis,rust,react,nextjs,tailwind" /><br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,supabase,vite" />
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,rust" /><br/>
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=postgres,redis,supabase" /><br/>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,vite" />
 </p>
+
 
 
 
