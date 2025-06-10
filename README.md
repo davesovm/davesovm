@@ -12,7 +12,7 @@
   <!-- Database -->
   <img src="https://skillicons.dev/icons?i=supabase,postgres,redis" /><br/>
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=vite,ts,js,react,framer,nextjs,tailwind," /><br/>
+  <img src="https://skillicons.dev/icons?i=vite,ts,js,react,nextjs,tailwind" /><br/>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=docker,github,git,linux,vscode,figma,postman" />
 </p>
