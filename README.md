@@ -12,8 +12,11 @@
   <!-- Database -->
   <img src="https://skillicons.dev/icons?i=postgres,redis,supabase" /><br/>
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,vite" /><br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=linux,vscode,figma,postman" />
 </p>
+
 
 
 
