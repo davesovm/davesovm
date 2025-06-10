@@ -5,9 +5,13 @@
 
 ## 🧠 What I Do
 
+## 🧠 What I Do
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,postgres,redis,rust,react,nextjs,tailwind,js,ts,supabase" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,postgres,redis,rust,react,nextjs,tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,supabase,vite" />
 </p>
+
 
 
 
