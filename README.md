@@ -41,22 +41,6 @@ Exploring ways to make AI more **safe**, **aligned**, and **human-centric**.
 
 ---
 
-## 📈 GitHub Insights
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=davesovm&show_icons=true&theme=radical" style="max-width: 100%; height: auto;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=davesovm&theme=radical" style="max-width: 100%; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davesovm&layout=compact&theme=radical" style="max-width: 100%; height: auto;" />
-</div>
-
-
----
-
-
-
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:2d2d2d&height=100&section=footer" width="100%" />
 </p>
