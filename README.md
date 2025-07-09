@@ -48,16 +48,7 @@ Researching how to make AI more **safe**, **human-centric**, and **ethically gro
 
 ---
 
-## 🚧 Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**SOVM**](https://github.com/yourusername/sovm) | System for organizing vectorized memory for agent recall and feedback | 🧠 Rust · 🧾 Redis · 🛠 LangChain |
-| [**Agent UI**](https://github.com/yourusername/agent-ui) | Frontend interface for managing multi-agent pipelines | 🧩 React · Tailwind · Vite |
-
-> 🌌 *More coming soon...*
-
----
 
 ## 📬 Connect With Me
 
