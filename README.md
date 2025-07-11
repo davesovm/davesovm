@@ -10,7 +10,6 @@
 
 ---
 
-
 ## 🧠 What I Do
 
 <p align="center">
@@ -22,12 +21,13 @@
   <img src="https://skillicons.dev/icons?i=vite,ts,js,react,nextjs,tailwind" /><br/>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=docker,github,git,linux,vscode,figma,postman" />
-  <!-- Vector Databases -->
+</p>
+
+<!-- Vector Databases -->
 <p align="center">
   <img src="https://img.shields.io/badge/Qdrant-00D8A7?style=for-the-badge&logo&logoColor=white" alt="Qdrant" />
   <img src="https://img.shields.io/badge/Pinecone-3C3C3C?style=for-the-badge&logoColor=white" alt="Pinecone" />
   <img src="https://img.shields.io/badge/Weaviate-005BBB?style=for-the-badge&logoColor=white" alt="Weaviate" />
-</p>
 </p>
 
 ---
@@ -48,8 +48,6 @@ Researching how to make AI more **safe**, **human-centric**, and **ethically gro
 
 ---
 
-
-
 ## 📬 Connect With Me
 
 <p align="center">
@@ -59,6 +57,11 @@ Researching how to make AI more **safe**, **human-centric**, and **ethically gro
 </p>
 
 ---
+
+<!-- 👁️ Visitor Count -->
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=dawitberhanu.dawitberhanu" alt="Visitor Count Badge" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:2d2d2d&height=100&section=footer" width="100%" />
