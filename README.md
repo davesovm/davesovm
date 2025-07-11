@@ -1,11 +1,10 @@
-<!-- 🚀 Minimal Futuristic Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,50:2a2a72,100:000000&height=200&section=header&text=Dawit%20Berhanu&fontSize=40&fontColor=99ccff" width="100%"/>
 </p>
 
 <p align="center">
-  <b>AI Engineer • Autonomous Systems Designer • Techno-Optimist</b><br/>
-  Building safe, collaborative AI agents for the real world.
+  <b>AI Agent Systems Engineer • Building Tools for Builders 🛠</b><br/>
+  Creating developer-first tools to accelerate AI agent development.
 </p>
 
 ---
@@ -26,9 +25,9 @@
 
 ## 🤖 Focus Areas
 
-- **LLM Agents**: Reasoning, memory, and tool use  
-- **Multi-Agent Systems**: Coordination & autonomy  
-- **AI Safety & Alignment**: Trustworthy, human-centered AI
+- **Developer-First Tooling**: Building CLIs, APIs, and extensions for agent development.
+- **Multi-Agent Systems**: Designing frameworks for agent coordination & collaboration.
+- **Practical AI Safety**: Implementing trustworthy, human-centered AI guardrails.
 
 ---
 
