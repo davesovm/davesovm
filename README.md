@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>AI Agent Systems Engineer • Building Tools for Builders 🛠</b><br/>
+  <b>AI Agent Systems Engineer • Building Tools for Builders </b><br/>
   Creating developer-first tools to accelerate AI agent development.
 </p>
 
