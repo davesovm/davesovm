@@ -1,54 +1,38 @@
-<!-- 🚀 Futuristic Capsule Header -->
+<!-- 🚀 Minimal Futuristic Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,50:2a2a72,100:000000&height=200&section=header&text=%20%20Dawit%20Berhanu%20✨&fontSize=45&fontColor=99ccff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,50:2a2a72,100:000000&height=200&section=header&text=Dawit%20Berhanu&fontSize=40&fontColor=99ccff" width="100%"/>
 </p>
 
 <p align="center">
-  <strong>AI Agent Engineer • Autonomous Systems Designer • Techno-Optimist</strong><br/>
-  Building human-aligned AI systems that reason, collaborate, and evolve.
-</p>
-
----
-
-## 🧠 What I Do
-
-<p align="center">
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=python,fastapi,rust" /><br/>
-  <!-- Database -->
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,redis" /><br/>
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=vite,ts,js,react,nextjs,tailwind" /><br/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,github,git,linux,vscode,figma,postman" />
-</p>
-
-<!-- Vector Databases -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Qdrant-00D8A7?style=for-the-badge&logo&logoColor=white" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/Pinecone-3C3C3C?style=for-the-badge&logoColor=white" alt="Pinecone" />
-  <img src="https://img.shields.io/badge/Weaviate-005BBB?style=for-the-badge&logoColor=white" alt="Weaviate" />
+  <b>AI Engineer • Autonomous Systems Designer • Techno-Optimist</b><br/>
+  Building safe, collaborative AI agents for the real world.
 </p>
 
 ---
 
-## 🤖 AI Systems & Agents
+## 🧠 Tech Stack
 
-### 🛰️ Building LLM Agents  
-Using **OpenAI**, **LangChain**, and **vector databases** to develop intelligent, context-aware systems.  
-> 🧠 Contextual understanding • 🔗 Tool integration • 📚 Memory via vectors
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,rust,supabase,postgres,redis,react,tailwind,vite,nextjs,docker,git,linux,vscode" />
+</p>
 
-### 🔁 Multi-Agent System Design  
-Creating autonomous agents that **collaborate**, **reason**, and **act** across tasks and domains.  
-> 🤝 Decentralized control • 🧩 Modular agents • 🔄 Feedback loops
-
-### 🛡️ AI Safety & Alignment  
-Researching how to make AI more **safe**, **human-centric**, and **ethically grounded**.  
-> 🧭 Human values • 🔐 Trust & robustness • 🧪 Empirical alignment
+<p align="center">
+  <img src="https://img.shields.io/badge/Qdrant-00D8A7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pinecone-3C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Weaviate-005BBB?style=for-the-badge" />
+</p>
 
 ---
 
-## 📬 Connect With Me
+## 🤖 Focus Areas
+
+- **LLM Agents**: Reasoning, memory, and tool use  
+- **Multi-Agent Systems**: Coordination & autonomy  
+- **AI Safety & Alignment**: Trustworthy, human-centered AI
+
+---
+
+## 🌐 Connect
 
 <p align="center">
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -58,7 +42,6 @@ Researching how to make AI more **safe**, **human-centric**, and **ethically gro
 
 ---
 
-<!-- 👁️ Profile View Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=davesovm&style=flat-square&color=blue" alt="Profile views" />
 </p>
@@ -66,10 +49,3 @@ Researching how to make AI more **safe**, **human-centric**, and **ethically gro
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:2d2d2d&height=100&section=footer" width="100%" />
 </p>
-
-<!-- 👾 Optional GitHub Snake Animation -->
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
--->
