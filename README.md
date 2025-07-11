@@ -7,9 +7,9 @@
   Creating developer-first tools to accelerate AI agent development.
 </p>
 
----
 
-## 🧠 Tech Stack
+
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,rust,supabase,postgres,redis,react,tailwind,vite,nextjs,docker,git,linux,vscode" />
@@ -21,15 +21,15 @@
   <img src="https://img.shields.io/badge/Weaviate-005BBB?style=for-the-badge" />
 </p>
 
----
 
-## 🤖 Focus Areas
+
+## Focus Areas
 
 - **Developer-First Tooling**: Building CLIs, APIs, and extensions for agent development.
 - **Multi-Agent Systems**: Designing frameworks for agent coordination & collaboration.
 - **Practical AI Safety**: Implementing trustworthy, human-centered AI guardrails.
 
----
+
 
 ## 🌐 Connect
 
