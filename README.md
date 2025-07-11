@@ -58,9 +58,9 @@ Researching how to make AI more **safe**, **human-centric**, and **ethically gro
 
 ---
 
-<!-- 👁️ Visitor Count -->
+<!-- 👁️ Profile View Counter -->
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=dawitberhanu.dawitberhanu" alt="Visitor Count Badge" />
+  <img src="https://komarev.com/ghpvc/?username=davesovm&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 <p align="center">
